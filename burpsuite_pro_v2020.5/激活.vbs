@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "java.exe -Dfile.encoding=utf-8 -noverify -javaagent:Dr.FarFar.jar -jar Loader.jar",0

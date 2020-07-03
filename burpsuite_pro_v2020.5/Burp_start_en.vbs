@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "java.exe -Dfile.encoding=utf-8 -javaagent:burp-loader-keygen-2020_4_1.jar -noverify -jar burpsuite_pro_v2020.5.jar",0
