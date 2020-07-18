@@ -26,5 +26,6 @@
 #### ②看gif演示.
   
 ![](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/001.gif)
+![](https://w.ddosi.workers.dev/%E9%9B%A8%E8%8B%81%E7%BD%91%E7%AB%99%E5%88%86%E4%BA%AB/burp/burp_suite_pro_v2020.5/001.gif)
 
 [浏览全部](https://www.ddosi.com/b309/)
