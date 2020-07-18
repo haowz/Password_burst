@@ -17,7 +17,7 @@
 
 
 
-①安装大于等于9的java版本
+####${color}{Hostpink}{①安装大于等于9的java版本}
 由于burp从2020.4版本开始不再支持java8,必须大于等于java9才行
 
 ②看gif演示.
