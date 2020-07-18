@@ -25,6 +25,6 @@
   
 #### ②看gif演示.
   
-![](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/001.gif "可选标题")
+![](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/001.gif)
 
 [浏览全部](https://www.ddosi.com/b309/)
