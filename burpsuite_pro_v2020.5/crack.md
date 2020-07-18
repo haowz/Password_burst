@@ -17,11 +17,11 @@
 
 
 
-#### $\color{Hotpink}{①安装大于等于9的java版本}\$
+#### $\color{Hotpink}{①安装大于等于9的java版本}$
 由于burp从2020.4版本开始不再支持java8,必须大于等于java9才行
 
-#### $\color{Hotpink}{②看gif演示.}\$
+#### $\color{Hotpink}{②看gif演示.}$
 
-![](https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/001.gif "可选标题")
+<div align=center ><img src="https://gitee.com/hwzheng/learns/raw/master/code/js/markdown/git/images/001.gif" width=522rpx ></div>
 
 [浏览全部](https://www.ddosi.com/b309/)
